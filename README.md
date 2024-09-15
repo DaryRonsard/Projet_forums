@@ -2,7 +2,7 @@ Ce projet est une API REST qui permet de gérer un forum, des sujets (topics), e
 Il a été développé avec Django et Django REST Framework (DRF), en utilisant une base de données PostgreSQL.
                                                                                           
                                                                                           
-                                                                                          Prérequis
+    Prérequis
 
 Python 3.12
 Django 5.x ou supérieur
