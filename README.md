@@ -1,0 +1,1 @@
+Ce projet est une API REST qui permet de gérer un forum, des sujets (topics), et des messages. Il a été développé avec Django et Django REST Framework (DRF), en utilisant une base de données PostgreSQL.
