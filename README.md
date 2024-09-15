@@ -39,13 +39,21 @@ CREATE DATABASE forum_db;
 
 
 DATABASES = {
+
     'default': {
+    
         'ENGINE': 'django.db.backends.postgresql',
+        
         'NAME': 'forum_db',
+        
         'USER': 'votre_nom_utilisateur',
+        
         'PASSWORD': 'votre_mot_de_passe',
+        
         'HOST': 'localhost',
+        
         'PORT': '5432',
+        
     }
 }
 
